@@ -72,7 +72,7 @@ Y='\033[1;93m'
 
 def exb():
 
-	print (R + 'Exit')	os.sys.exit()
+	
 
  
 
@@ -571,7 +571,7 @@ def pb():
 			    print(S+'[CP] ♡ '+user+' ♡ '+ps1)
 
 			    cps.append(user+ps1)
-
+best
 			else:
 
 			    if 'access_token' in k:
